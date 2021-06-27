@@ -1,0 +1,131 @@
+body {
+    background-color: #090b1a;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #ffffff;
+    display: inline-block;
+    position: absolute;
+    top: 45px;
+    right: 449px;
+    bottom: 285px;
+    left: 83px;
+}
+
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+    display: inline-block;
+    position: absolute;
+    left: 83px;
+    bottom: 210px;
+}
+
+.frame {
+    width: 1301px;
+    height: 524px;
+    background-color: #1C1938;
+    border-radius: 5px;
+    line-height: 1.5;
+    display: inline-block;
+    position: absolute;
+    left: 188px;
+    top: 207px;
+    right: 191px;
+    bottom: 208px;
+}
+
+.insights {
+    color: #aa5cdb;
+}
+
+.img {
+    width: 624px;
+    height: 520px;
+    display: inline-block;
+    position: absolute;
+    left: 675px;
+    bottom: 1px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.color {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: hsl(277, 68%, 45%);
+    opacity: 0.6;
+}
+
+.stat-1 {
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+    display: inline-block;
+    position: absolute;
+    bottom: 75px;
+    left: 83px;
+}
+
+.subtitle-1 {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.6);
+    display: inline-block;
+    position: absolute;
+    bottom: 65px;
+    left: 83px;
+}
+
+.stat-2 {
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+    display: inline-block;
+    position: absolute;
+    bottom: 75px;
+    left: 233px;
+}
+
+.subtitle-2 {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.6);
+    display: inline-block;
+    position: absolute;
+    bottom: 65px;
+    left: 233px;
+}
+
+.stat-3 {
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+    display: inline-block;
+    position: absolute;
+    bottom: 75px;
+    left: 383px;
+}
+
+.subtitle-3 {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.6);
+    display: inline-block;
+    position: absolute;
+    bottom: 65px;
+    left: 383px;
+
+}
+
+.attribution {
+    color: white;
+    text-decoration: none;
+}
