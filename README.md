@@ -16,5 +16,5 @@ I don't know to use a mobile layout. So I would learn that in the coming days.
 
 ## Author 
 - Website - [Gayatri](https://alds194.github.io/my-portfolio/) 
-- - Frontend Mentor - [@alds194](https://www.frontendmentor.io/profile/alds194)
+- Frontend Mentor - [@alds194](https://www.frontendmentor.io/profile/alds194)
 - Instagram - [@alds194](https://www.instagram.com/alds194/)
